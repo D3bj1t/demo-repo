@@ -5,3 +5,7 @@ First time trying out github, or on a broader scale, wanting to do what I love r
 ##Subheader
 
 Watching tutorial on youtube!
+
+##local branch development
+
+1. open index.html in your browser.
